@@ -1,0 +1,167 @@
+
+
+body {
+    background-color: whitesmoke;
+    width: auto;
+    
+}
+
+@media (max-width: 575px) {
+    /** Media queries previos al banner **/
+max-width: 80%;
+  }
+
+h1 {
+    display: flex;
+    justify-content: center;
+}
+
+.navbar {
+    text-align: center;
+    color: #025157;
+    font-weight: 500;
+     background-color: white; 
+  }
+  
+  .navbar {
+    text-align: center;
+    color: #025157;
+    font-weight: 500;
+     /* background-color: black;  */
+  }
+.facebook {
+    display: flex;
+    justify-content: center;
+}
+.inicio {
+    text-align: center;
+}
+
+
+h2 > .entradas {
+    text-align: center;
+}
+.entradas1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.entradas {
+    text-align: center;
+}
+
+.cockteles {
+    text-align: center;
+}
+
+.cocktelesc {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around
+    ;
+}
+
+.Aguachiles {
+    text-align: center;
+}
+.AguachilesC > ul > li  {
+    display: flex;
+    justify-content: center;
+    
+}
+
+.HamburguesasC {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.Hamburguesas {
+    text-align: center;
+}
+.DesayunosC {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.Desayunos {
+    text-align: center;
+}
+
+.SopasC {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.Sopas {
+    text-align: center;
+}
+
+.FiletesDePescado {
+    text-align: center;
+}
+
+.FiletesDePescadoC {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.Camarones {
+    text-align: center;
+}
+
+.CamaronesC {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.Especialidades{
+    text-align: center;
+}
+
+.EspecialidadesC {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.Carnes{
+    text-align: center;
+}
+
+.CarnesC {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.Parrilladas{
+    text-align: center;
+}
+
+.ParriladasC {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.CortesAmericanos{
+    text-align: center;
+}
+
+.CortesAmericanosC {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.Bebidas{
+    text-align: center;
+}
+
+.BebidasC {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
